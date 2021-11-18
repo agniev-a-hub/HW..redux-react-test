@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+.App {
+    margin:15px;
+    padding: 15px;
+    border: 1px solid teal;
+}
